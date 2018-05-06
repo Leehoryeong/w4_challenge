@@ -1,0 +1,2 @@
+class Indian < ApplicationRecord
+end
